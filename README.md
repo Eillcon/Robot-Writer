@@ -6,8 +6,6 @@ Robot Writer is a software-focused project centred on developing embedded C code
 
 The work focused on writing low-level C code to translate high-level writing instructions into coordinated motion commands, enabling the robot to write text accurately using its pre-existing hardware.
 
----
-
 ## Key Features
 
 * Automated writing and drawing using a standard pen
@@ -16,13 +14,9 @@ The work focused on writing low-level C code to translate high-level writing ins
 * Custom firmware for coordinated motor control
 * Modular mechanical design suitable for rapid iteration and improvement
 
----
-
 ## Project Scope
 
 This project focused exclusively on embedded software development in C. The mechanical design, electronics, and physical assembly of the robot were provided beforehand and were outside the scope of this work.
-
----
 
 ## Software Environment
 
@@ -31,8 +25,6 @@ This project focused exclusively on embedded software development in C. The mech
 * Communication with the robot via a provided RS232 serial interface
 * Use of given serial and RS232 driver files for low-level communication
 * Focus on application-layer logic built on top of supplied communication code
-
----
 
 ## Software & Control
 
@@ -43,15 +35,11 @@ This project focused exclusively on embedded software development in C. The mech
 * Sequencing and synchronisation of multi-axis movement
 * Timing-aware command generation for smooth and repeatable writing
 
----
-
 ## Results
 
 * Robot successfully writes legible characters using the provided hardware
 * Software produces repeatable and predictable motion
 * Demonstrates reliable low-level motor control implemented in C
-
----
 
 ## Skills Demonstrated
 
@@ -62,8 +50,6 @@ This project focused exclusively on embedded software development in C. The mech
 * Real-time and timing-critical code
 * Debugging and testing on physical hardware
 
----
-
 ## Future Improvements
 
 * More advanced motion profiling (acceleration and jerk control)
@@ -71,13 +57,9 @@ This project focused exclusively on embedded software development in C. The mech
 * Optimisation of timing for smoother curves
 * Porting firmware to alternative microcontrollers
 
----
-
 ## Project Motivation
 
 The goal of this project was to strengthen skills in embedded C programming and low-level control of electromechanical systems. It demonstrates the ability to work close to hardware, manage timing-sensitive logic, and produce reliable firmware for a real-world robotic system.
-
----
 
 ## Author
 
